@@ -1,16 +1,13 @@
 # todo
 
-A new Flutter project.
+A ToDo app developed using GetX and SQFLite in Flutter can provide users with a simple and effective way to manage their tasks and deadlines. Here are the basic features and functionality that your ToDo app could include:
 
-## Getting Started
+Home Screen: The home screen of your ToDo app could display the list of tasks that the user has added to the app.
 
-This project is a starting point for a Flutter application.
+Add Task Screen: A screen to allow users to add a new task to the list. This screen could include fields such as the task description, due date, and priority.
 
-A few resources to get you started if this is your first Flutter project:
+Delete Task: Users should be able to delete a task from the list by swiping it away or using a delete button.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Mark Completed: Users should be able to mark a task as completed once they have finished it.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Filter and Sort: Users should be able to filter and sort their tasks by due date, priority, or completion status.
